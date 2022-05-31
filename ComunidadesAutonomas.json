@@ -4,14 +4,16 @@
     "lat": 38.87874339,
     "data": "40-60",
     "label": "Extremadura",
-	"radio": "25"
+    "radio": "25",
+    "size": 100
   },
   {
     "lon": -3.68760088,
     "lat": 40.40841191,
     "data": "20-80",
     "label": "Comunidad de Madrid",
-	"radio": "50"
+    "radio": "50",
+    "size": 50
   },
   {
     "lon": -15.41336841,
