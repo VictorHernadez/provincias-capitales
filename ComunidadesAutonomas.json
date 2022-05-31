@@ -19,108 +19,144 @@
     "lon": -15.41336841,
     "lat": 28.09937855,
     "data": "40-60",
-    "label": "Canarias"
+    "label": "Canarias",
+    "radio": "25",
+    "size": 100
   },
   {
     "lon": -2.44565538,
     "lat": 42.46644945,
     "data": "40-60",
-    "label": "La Rioja"
+    "label": "La Rioja",
+    "radio": "25",
+    "size": 100
   },
   {
     "lon": -5.84372206,
     "lat": 43.36232165,
     "data": "40-60",
-    "label": "Principado de Asturias"
+    "label": "Principado de Asturias",
+    "radio": "25",
+    "size": 100
   },
   {
     "lon": 2.65181698,
     "lat": 39.57114699,
     "data": "40-60",
-    "label": "Illes Balears"
+    "label": "Illes Balears",
+    "radio": "25",
+    "size": 100
   },
   {
     "lon": -1.6451528,
     "lat": 42.814102,
     "data": "40-60",
-    "label": "Comunidad Foral de Navarra"
+    "label": "Comunidad Foral de Navarra",
+    "radio": "25",
+    "size": 100
   },
   {
     "lon": -8.64799018,
     "lat": 42.43381442,
     "data": "40-60",
-    "label": "Galicia"
+    "label": "Galicia",
+    "radio": "25",
+    "size": 100
   },
   {
     "lon": -3.80474784,
     "lat": 43.46297885,
     "data": "40-60",
-    "label": "Cantabria"
+    "label": "Cantabria",
+    "radio": "25",
+    "size": 100
   },
   {
     "lon": -4.02431421,
     "lat": 39.85715187,
     "data": "40-60",
-    "label": "Castilla-La Mancha"
+    "label": "Castilla-La Mancha",
+    "radio": "25",
+    "size": 100
   },
   {
     "lon": -0.37565717,
     "lat": 39.47534441,
     "data": "40-60",
-    "label": "Comunitat Valenciana"
+    "label": "Comunitat Valenciana",
+    "radio": "25",
+    "size": 100
   },
   {
     "lon": -0.87928652,
     "lat": 41.65645655,
     "data": "40-60",
-    "label": "Aragón"
+    "label": "Aragón",
+    "radio": "25",
+    "size": 100
   },
   {
     "lon": -2.67275685,
     "lat": 42.85058789,
     "data": "40-60",
-    "label": "País Vasco"
+    "label": "País Vasco",
+    "radio": "25",
+    "size": 100
   },
   {
     "lon": -4.72334924,
     "lat": 41.65232777,
     "data": "40-60",
-    "label": "Castilla y León"
+    "label": "Castilla y León",
+    "radio": "25",
+    "size": 100
   },
   {
     "lon": -5.99251368,
     "lat": 37.38620512,
     "data": "40-60",
-    "label": "Andalucía"
+    "label": "Andalucía",
+    "radio": "25",
+    "size": 100
   },
   {
     "lon": -1.1285408,
     "lat": 37.98436361,
     "data": "40-60",
-    "label": "Región de Murcia"
+    "label": "Región de Murcia",
+    "radio": "25",
+    "size": 100
   },
   {
     "lon": -2.942281,
     "lat": 35.294731,
     "data": "40-60",
-    "label": "Ciudad Autónoma de Melilla"
+    "label": "Ciudad Autónoma de Melilla",
+    "radio": "25",
+    "size": 100
   },
   {
     "lon": -15.41336841,
     "lat": 28.09937855,
     "data": "40-60",
-    "label": "Canarias"
+    "label": "Canarias",
+    "radio": "25",
+    "size": 100
   },
   {
     "lon": 2.17634927,
     "lat": 41.38424664,
     "data": "40-60",
-    "label": "Cataluña"
+    "label": "Cataluña",
+    "radio": "25",
+    "size": 100
   },
   {
     "lon": -5.30675127,
     "lat": 35.88810209,
     "data": "40-60",
-    "label": "Ciudad Autónoma de Ceuta"
+    "label": "Ciudad Autónoma de Ceuta",
+    "radio": "25",
+    "size": 100
   }
 ]
